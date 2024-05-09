@@ -1,8 +1,1 @@
-# File Structure 
-Project.ipynb  
----- ID101  
--------- audio  
------------- date  
----------------- csv  
--------------------- filename  
--------- fitbit_data  
+# Leveraging  multimodal data to predict job performance
